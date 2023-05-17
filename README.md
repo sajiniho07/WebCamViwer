@@ -28,5 +28,9 @@ Run the script.
 
 4- Press 'q' key to exit the program.
 
+## Example
+
+![sample](https://github.com/sajiniho07/WebCamViwer/blob/master/res/sample.gif)
+
 ## Credits
 This code was developed by Sajad Kamali.
