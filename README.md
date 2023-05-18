@@ -1,5 +1,5 @@
-OpenCV Video Frame Manipulation
-===
+# OpenCV Video Frame Manipulation
+
 This program uses OpenCV to capture video frames from a webcam and displays them on-screen in real-time, with various manipulations applied. The manipulations include:
 
 - Creating a normal frame with the current time and developer name overlaid.
